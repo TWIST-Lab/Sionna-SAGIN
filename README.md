@@ -32,4 +32,4 @@ This work was submitted to MILCOM 2025:
 
 Abdullah Al Noman, Talip Tolga Sarı, Sunday Amatare, Gokhan Secinti, and Debashri Roy,
 "Space-Air-Ground Network for Direct-to-Cell Communication,"
-IEEE Military Communications Conference (MILCOM), October 2025 [Submitted].
+IEEE Military Communications Conference (MILCOM), October 2025 [Accepted].
